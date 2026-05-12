@@ -1,8 +1,8 @@
 # Post App Backend
-
+---
 A RESTful API backend for managing user posts, built with Node.js, Express, and MongoDB. Supports creating posts with images and captions, and retrieving all posts from the database.
 
-
+---
 
 ## Table of Contents
 
